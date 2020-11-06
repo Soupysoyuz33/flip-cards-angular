@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   template: `
   <div class="flip-card-front">
     <ng-content></ng-content>
-  </div>'`,
+  </div>`,
   styleUrls: ['./flip-card.component.css']
 })
 
