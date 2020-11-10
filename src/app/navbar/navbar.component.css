@@ -1,7 +1,15 @@
-h1 {
+.title {
   font-family: 'Big Shoulders Stencil Text', cursive;
   color: #fff;
   position: relative;
   padding-top: 15px;
   padding-left: 15px;
+}
+
+.home {
+  color: #fff;
+  font-size: 20px;
+  position: absolute;
+  right: 40px;
+  top: 25px;
 }
